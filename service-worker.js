@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/movie_app_apigateway-lambda-dynamodb/precache-manifest.33b95be7231e8de2baa7741c83a40141.js"
+  "/movie_app_apigateway-lambda-dynamodb/precache-manifest.33b7ad9a64f14e3a5fab79206accd118.js"
 );
 
 workbox.clientsClaim();
